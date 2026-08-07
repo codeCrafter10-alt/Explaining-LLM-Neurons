@@ -3,3 +3,4 @@ transformers==4.46.3
 peft
 pandas
 datasets
+scikit-learn
