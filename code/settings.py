@@ -7,8 +7,8 @@ import os
 CUDA = True
 ALPHA = 0.01  # Use "None" to use ReLU threshold (i.e., > 0)
 BEAM_SIZE = 10
-MAX_FORMULA_LENGTH = 5
-COMPLEXITY_PENALTY = 1.00
+MAX_FORMULA_LENGTH = 50
+COMPLEXITY_PENALTY = 0.9
 TOPN = 5
 
 # Choices: iou, precision, recall

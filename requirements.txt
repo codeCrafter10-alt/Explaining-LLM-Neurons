@@ -4,3 +4,4 @@ peft
 pandas
 datasets
 scikit-learn
+pyparsing
