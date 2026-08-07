@@ -1,0 +1,51 @@
+neuron,formula,iou
+0,(word:t-shirt OR word:cobblestone),0.12096774193548386
+1,((word:competition AND word:competition.) OR (word:competition AND word:rain.)),0.7290000000000001
+2,((word:dancers OR word:gymnast) OR (word:dancers OR word:rugby)),0.12247200000000003
+3,((word:tourists OR word:overalls) OR (word:toddler OR word:children.)),0.06177966101694916
+4,((word:lone OR word:kneels) OR (word:lone OR word:sings)),0.13547787610619472
+5,((word:back. OR word:direction.) OR (word:high OR word:device)),0.07610439560439562
+6,((word:doctors OR word:tourists) OR (word:doctors OR word:overalls)),0.05806194690265487
+7,((word:hikers OR word:six) OR (word:hikers OR word:3)),0.23721428571428574
+8,(word:eats OR word:hoping),0.11612903225806452
+9,((word:4 OR word:teacher) OR (word:use OR word:males)),0.09112500000000001
+10,(word:2 OR word:4),0.18724832214765103
+11,(word:t-shirt OR word:treadmill.),0.2490566037735849
+12,((word:south OR word:tourists) OR (word:doctors OR word:overalls)),0.07541379310344828
+13,(word:eats OR word:neon),0.16016949152542373
+14,((word:fountain. OR word:ski) OR (word:fountain OR word:groups)),0.1289387755102041
+15,((word:tourists OR word:overalls) OR (word:toddler OR word:yoga)),0.06418867924528303
+16,(word:military OR word:rugby),0.12461538461538463
+17,((word:track OR word:tourists) OR (word:track OR word:overalls)),0.06834375000000001
+18,(word:you OR word:working),0.0840466926070039
+19,((word:tourists OR word:overalls) OR (word:toddler OR word:children.)),0.06177966101694916
+20,((word:reflective OR word:blocking) OR (word:circle OR word:faces)),0.10800000000000001
+21,((word:says OR word:banner) OR (word:says OR word:reads)),0.10720588235294119
+22,((word:local OR word:gold) OR (word:man. OR word:white-haired)),0.07251832460732985
+23,(word:surrounded OR word:fountain.),0.06206896551724138
+24,((word:priest OR word:tourists) OR (word:priest OR word:overalls)),0.05806194690265487
+25,((word:tourists OR word:overalls) OR (word:tourists OR word:weaving)),0.05656034482758621
+26,((word:doctors OR word:tourists) OR (word:doctors OR word:overalls)),0.05806194690265487
+27,((word:tourists OR word:overalls) OR (word:tourists OR word:doctor)),0.06694897959183675
+28,"(word:dancers OR word:blond-hair,)",0.0975
+29,((word:bikers OR word:site) OR (word:marathon OR word:leaving)),0.0904186046511628
+30,word:a,0.0
+31,"((word:pair OR word:dress,) OR (word:pile OR word:people,))",0.1406842105263158
+32,(word:performing OR word:tourists),0.05973451327433629
+33,((word:doctors OR word:tourists) OR (word:doctors OR word:overalls)),0.05806194690265487
+34,((word:nine OR word:coffee) OR (word:banner OR word:any)),0.12058646616541355
+35,((word:number OR word:2012) OR (word:number OR word:banner)),0.13154887218045114
+36,(word:four OR word:groups),0.22180094786729856
+37,(word:biker OR word:bikes),0.13740458015267176
+38,(word:3 OR word:hats),0.2025
+39,((word:foreground. OR word:equipment) OR (word:foreground. OR word:overalls)),0.07642741935483872
+40,((word:tourists OR word:overalls) OR (word:toddler OR word:yoga)),0.06418867924528303
+41,((word:tourists OR word:overalls) OR (word:tourists OR word:weaving)),0.05755263157894737
+42,((word:object OR word:sled) OR (word:khaki OR word:attached)),0.10857446808510639
+43,((word:3 OR word:groups) OR (word:very OR word:university)),0.20301265822784811
+44,((word:faces OR word:wave) OR (word:attire OR word:skateboarder)),0.09378947368421053
+45,((word:tourists OR word:overalls) OR (word:toddler OR word:children.)),0.06177966101694916
+46,((word:tourists OR word:overalls) OR (word:toddler OR word:children.)),0.06177966101694916
+47,(word:prepares OR word:waving),0.12214285714285714
+48,((word:tourists AND word:mother) OR (word:competition AND word:competition.)),0.4050000000000001
+49,(word:road OR word:hay),0.06708074534161491
